@@ -8,3 +8,4 @@
 - Memahami dasar keamanan jaringan
 - Lebih aktif saat praktik di lab
 - Mengerjakan tugas dengan disiplin
+- Belajar teknologi jaringan terbaru
