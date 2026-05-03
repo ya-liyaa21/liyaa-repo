@@ -2,9 +2,9 @@
 
 - Memahami konsep dasar jaringan komputer
 - Mampu melakukan konfigurasi IP dan subnetting
-- Latihan instalasi dan konfigurasi server
 - Belajar troubleshooting jaringan
 - Memahami dasar keamanan jaringan
 - Lebih aktif saat praktik di lab
 - Mengerjakan tugas dengan disiplin
 - Belajar teknologi jaringan terbaru
+- Mencapai hasil yang lebih baik di bidang TKJ
